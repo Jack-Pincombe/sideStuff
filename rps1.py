@@ -38,9 +38,9 @@ def move():
 
     while True:
         print
-        player_input = raw_input("Rock 1\n, paper 2\n and scissors /3\n make a move")
+        player = raw_input("Rock 1\n, paper 2\n and scissors /3\n make a move")
         try:
-            player = int(player_input)
+            player = int(player)
             if player in (1,2,3):
                 return player
         except ValueError:
@@ -50,6 +50,20 @@ def move():
 
 
 def result():
+    print "1...."
+    time.sleep(1)
+    print"2..."
+    time.sleep(1)
+    print "3..."
+    time.sleep(0.5)
+    print "computer threw { 0 }!".format(names[computer])
+    global computer_score, player_score
+    if player = computer:
+        print "Tie game"
+    else:
+        if rules[player] == computer:
+            print "Congrats you won"
+            player_score += 1
 
 def play_again():
 
