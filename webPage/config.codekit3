@@ -45,6 +45,44 @@
 		"oA": 2,
 		"oAP": "\/index.html",
 		"oF": 0
+		},
+	"\/my-icons-collection\/license\/license.pdf": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/my-icons-collection\/license\/license.pdf",
+		"oF": 0
+		},
+	"\/my-icons-collection\/png\/coding.png": {
+		"ft": 32768,
+		"iS": 14732,
+		"oA": 0,
+		"oAP": "\/my-icons-collection\/png\/coding.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/my-icons-collection\/png\/java.png": {
+		"ft": 32768,
+		"iS": 16703,
+		"oA": 0,
+		"oAP": "\/my-icons-collection\/png\/java.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/my-icons-collection\/png\/python-language-logotype.png": {
+		"ft": 32768,
+		"iS": 7977,
+		"oA": 0,
+		"oAP": "\/my-icons-collection\/png\/python-language-logotype.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/my-icons-collection\/png\/settings.png": {
+		"ft": 32768,
+		"iS": 16174,
+		"oA": 0,
+		"oAP": "\/my-icons-collection\/png\/settings.png",
+		"oF": 0,
+		"opt": 0
 		}
 	},
 "hooks": [
