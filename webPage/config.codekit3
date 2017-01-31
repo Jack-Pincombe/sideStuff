@@ -52,35 +52,35 @@
 		"oAP": "\/my-icons-collection\/license\/license.pdf",
 		"oF": 0
 		},
-	"\/my-icons-collection\/png\/coding.png": {
+	"\/png\/coding.png": {
 		"ft": 32768,
 		"iS": 14732,
 		"oA": 0,
-		"oAP": "\/my-icons-collection\/png\/coding.png",
+		"oAP": "\/png\/coding.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/my-icons-collection\/png\/java.png": {
+	"\/png\/java.png": {
 		"ft": 32768,
 		"iS": 16703,
 		"oA": 0,
-		"oAP": "\/my-icons-collection\/png\/java.png",
+		"oAP": "\/png\/java.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/my-icons-collection\/png\/python-language-logotype.png": {
+	"\/png\/python-language-logotype.png": {
 		"ft": 32768,
 		"iS": 7977,
 		"oA": 0,
-		"oAP": "\/my-icons-collection\/png\/python-language-logotype.png",
+		"oAP": "\/png\/python-language-logotype.png",
 		"oF": 0,
 		"opt": 0
 		},
-	"\/my-icons-collection\/png\/settings.png": {
+	"\/png\/settings.png": {
 		"ft": 32768,
 		"iS": 16174,
 		"oA": 0,
-		"oAP": "\/my-icons-collection\/png\/settings.png",
+		"oAP": "\/png\/settings.png",
 		"oF": 0,
 		"opt": 0
 		}
