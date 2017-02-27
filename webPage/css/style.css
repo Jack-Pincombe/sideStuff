@@ -1,3 +1,6 @@
+body {
+  background-color: #f9f9f9; }
+
 header {
   background-image: url("RoadKing.jpg");
   height: 100vh;
@@ -21,28 +24,37 @@ header {
 
 h3 {
   max-width: 600px;
-  margin: 0 auto 20px; }
+  margin-left: 270px; }
 
 .container {
   padding-left: 100px;
   padding-top: 20px;
+  padding-bottom: 40px;
   align-items: center;
-  margin: 0 auto 20px; }
+  margin: 0 auto 20px;
+  background-color: white; }
   .container img {
     width: 50%;
     height: 50%; }
   .container p {
     font-size: 40px;
     font-family: 'Alfa Slab One', cursive; }
+  .container h4 {
+    padding-top: 20px; }
 
 #map {
   width: 100%;
   height: 400px;
   background-color: grey; }
 
-#projects {
-  background-color: orange;
-  width: 100%;
-  height: 300px; }
-  #projects h3 {
-    max-width: 100%; }
+#contact {
+  background-color: #f9f9f9;
+  align-items: center;
+  margin: 0 auto 20px;
+  padding-left: 250px; }
+  #contact img {
+    width: 33%;
+    height: 13%; }
+  #contact h3 {
+    margin: auto;
+    padding-left: 300px; }

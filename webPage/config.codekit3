@@ -66,11 +66,27 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"\/png\/github.png": {
+		"ft": 32768,
+		"iS": 1783,
+		"oA": 0,
+		"oAP": "\/png\/github.png",
+		"oF": 0,
+		"opt": 0
+		},
 	"\/png\/java.png": {
 		"ft": 32768,
 		"iS": 16703,
 		"oA": 0,
 		"oAP": "\/png\/java.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/png\/linkedin.png": {
+		"ft": 32768,
+		"iS": 1338,
+		"oA": 0,
+		"oAP": "\/png\/linkedin.png",
 		"oF": 0,
 		"opt": 0
 		},
@@ -87,6 +103,22 @@
 		"iS": 16174,
 		"oA": 0,
 		"oAP": "\/png\/settings.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/png\/skype.png": {
+		"ft": 32768,
+		"iS": 2689,
+		"oA": 0,
+		"oAP": "\/png\/skype.png",
+		"oF": 0,
+		"opt": 0
+		},
+	"\/png\/web.png": {
+		"ft": 32768,
+		"iS": 3436,
+		"oA": 0,
+		"oAP": "\/png\/web.png",
 		"oF": 0,
 		"opt": 0
 		}
