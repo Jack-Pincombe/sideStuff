@@ -41,6 +41,8 @@ h3 {
     font-family: 'Alfa Slab One', cursive; }
   .container h4 {
     padding-top: 20px; }
+  .container .right {
+    align: right; }
 
 #map {
   width: 100%;
