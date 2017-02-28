@@ -37,12 +37,18 @@ h3 {
     width: 50%;
     height: 50%; }
   .container p {
-    font-size: 40px;
+    font-size: 20px;
     font-family: 'Alfa Slab One', cursive; }
   .container h4 {
     padding-top: 20px; }
-  .container .right {
-    align: right; }
+
+#right {
+  max-width: 300px;
+  background-color: blue;
+  padding: 10px; }
+
+p {
+  font-family: 'Roboto Slab', serif; }
 
 #map {
   width: 100%;
