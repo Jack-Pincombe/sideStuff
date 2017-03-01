@@ -66,3 +66,15 @@ p {
   #contact h3 {
     margin: auto;
     padding-left: 300px; }
+
+.jumbotron {
+  background: contain; }
+  .jumbotron h4 {
+    padding-top: 0; }
+
+#skills {
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 0px;
+  padding-right: 10px;
+  align-items: center; }
