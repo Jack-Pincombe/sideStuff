@@ -29,16 +29,19 @@ h3 {
 .container {
   padding-left: 100px;
   padding-top: 20px;
-  padding-bottom: 40px;
+  padding-bottom: 20px;
   align-items: center;
   margin: 0 auto 20px;
   background-color: white; }
   .container img {
     width: 50%;
-    height: 50%; }
+    height: 50%;
+    align-items: center;
+    display: inline-block; }
   .container p {
     font-size: 20px;
-    font-family: 'Alfa Slab One', cursive; }
+    font-family: 'Roboto Slab', cursive;
+    text-align: center; }
   .container h4 {
     padding-top: 20px; }
 
@@ -67,10 +70,15 @@ p {
     margin: auto;
     padding-left: 300px; }
 
-.jumbotron {
-  background: contain; }
-  .jumbotron h4 {
-    padding-top: 0; }
+.container .jumbotron {
+  padding-top: 10px;
+  background: contain;
+  max-height: 200px;
+  max-width: 90%;
+  min-height: 200px; }
+
+.container h4 {
+  padding-top: 0; }
 
 #skills {
   padding-left: 10px;
@@ -78,3 +86,9 @@ p {
   padding-bottom: 0px;
   padding-right: 10px;
   align-items: center; }
+
+.navbar {
+  background-color: #70a3e7;
+  max-height: 5px; }
+  .navbar h5 {
+    font-family: 'Roboto Slab', cursive; }
